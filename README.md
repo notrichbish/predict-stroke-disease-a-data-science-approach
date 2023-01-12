@@ -1,0 +1,6 @@
+# Predict Stroke Disease: A Data Science Approach
+
+## Abstract
+The prediction of stroke disease is a critical issue in the healthcare industry, as it enables the early detection of strokes and the timely treatment of patients. In this research, machine learning and deep learning algorithms are implemented and evaluated for their performance in predicting stroke disease. The datasets used for this research contain features that identify stroke and are used to train and test the model. The algorithms are evaluated based on their accuracy, precision, recall, F1-score, and Area Under Curve (AUC) values. The results show that the best overall model for predicting stroke disease is the Random Forest algorithm with minmax scalar and Randomised Cross Validation, with an accuracy of 97.29%, precision of 97.38%, recall of 97.29%, F1-score of 97.29%, and AUC of 97%. The research also finds that the Artificial Neural Network is suitable for predicting stroke disease, with 95.43 on all four-evaluation metrics and AUC of 99%. However, the genetic algorithm with neural networks does not perform well in predicting stroke disease.
+
+If anyone wants to use a part of the code. Please reference it. Thanks.
